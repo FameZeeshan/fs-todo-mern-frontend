@@ -9,6 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #974970;
 }
 
 .container {
@@ -20,6 +21,7 @@ body {
 h1 {
   margin-top: 1rem;
   text-align: center;
+  color: #fff;
 }
 
 .top {
@@ -38,16 +40,17 @@ input {
 }
 
 .add {
-  background-color: #000;
+  background-color: #40916c;
   color: #fff;
   padding: 0.5rem 1.5rem;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 .todo {
   position: relative;
   margin-top: 1rem;
-  background-color: #000;
+  background-color: #b18a51;
   color: #fff;
   padding: 1.5rem 3rem;
   border-radius: 5px;
